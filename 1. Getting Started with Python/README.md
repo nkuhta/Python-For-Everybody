@@ -5,5 +5,5 @@
 
 #  Python Course Refereces
 1.  **Python for Everybody** - Michigan - Charles Severance (Coursera)   
-https://www.coursera.org/specializations/python  
-http://www.pythonlearn.com/
+	https://www.coursera.org/specializations/python  
+	http://www.pythonlearn.com/
