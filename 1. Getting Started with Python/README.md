@@ -1,6 +1,4 @@
-#   Python For Everybody	
-
-#  1. Getting Started with Python
+#  Getting Started with Python
 1.  **Python_for_Informatics.pdf** - Course Textbook (free)
 
 #  Python For Everybody Course References
