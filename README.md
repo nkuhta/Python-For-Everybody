@@ -1,7 +1,7 @@
-#   Python For Everybody	
-
-#  1. Getting Started with Python
-1.  Basic Introduction to "Why we Program"
+#  Python for Everybody
+1.  **Getting started with Python**  - Python for Informatics Textbook
+2.  **First Python Program** - First python "hello world" program
+3.  **Variables and Expressions** - 
 
 #  Python For Everybody Course References
 1.  **Python for Everybody** - Michigan - Charles Severance (Coursera)   
