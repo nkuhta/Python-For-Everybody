@@ -1,10 +1,5 @@
-#  Getting Started with Python	
-1.  **1. Getting Started with Python** - Python for Informatics Textbook
-
-#  Getting Started with Python	
-1.  **2.  First Program** - First Python "hello world" program
-
-
+#  Variables and Expressions
+1.  **Variables_and_Expressions.py** - Variable assignement, numeric operators
 
 
 #  Python For Everybody Course References
