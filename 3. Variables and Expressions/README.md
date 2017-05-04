@@ -1,5 +1,5 @@
 #  Variables and Expressions
-1.  **Variables_and_Expressions.py** - Variable assignement, numeric operators
+1.  **Variables_and_Expressions.py** - Variable assignment, numeric operators, order of operations, data types (str,int,float), user input.
 
 
 #  Python For Everybody Course References
