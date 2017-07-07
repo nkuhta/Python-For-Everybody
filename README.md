@@ -1,5 +1,5 @@
 #  Python for Everybody
-1.  **Getting started with Python**  - Python for Informatics Textbook
+1.  **[Getting started with Python](https://github.com/nkuhta/Python-For-Everybody/tree/master/1.%20Getting%20Started%20with%20Python)**  - Python for Informatics Textbook
 2.  **First Python Program** - First python "hello world" program
 3.  **Variables and Expressions** - Data Types, basic numerical operations, and user input. 
 4.  **Conditional Code** - Boolean statements, if/else/elif, try/except.   
